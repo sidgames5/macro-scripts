@@ -1,2 +1,9 @@
 *.class
 *.jar
+*.exe
+*.lib
+*.exp
+*.dll
+*.hash
+*.obj
+*.pch

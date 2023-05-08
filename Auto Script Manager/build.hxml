@@ -1,4 +1,6 @@
--lib hxjava
+-lib hxcpp
+-lib console.hx
 -cp src
 -main Main
--java bin
+-cpp bin
+-cmd ren bin\Main.exe atsm.exe
